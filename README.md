@@ -22,4 +22,5 @@ web application allows user to:
 - bcrypt for hash password
 
 ## see a demo: https://youtu.be/SExpDByol3U 
+## try it: https://my-note-app-demo.herokuapp.com/
 
